@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetIC8_7 Pin=J4-2
-Added Pin To Net: NetName=ISOGND Pin=J4-2
-Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(96, 105, 75)
-Change Net Color : Old Net Color=RGB(96, 105, 75) New Net Color=Black

@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=BR1_UART_RX Pin=U1-136
-Added Pin To Net: NetName=BR1_UART_TX Pin=U1-136
-Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(12, 52, 61)

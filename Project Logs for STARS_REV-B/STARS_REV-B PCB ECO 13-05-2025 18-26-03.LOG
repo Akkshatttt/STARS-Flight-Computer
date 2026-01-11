@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GNSS_UART_RX Pin=J7-2
-Removed Pin From Net: NetName=GNSS_UART_TX Pin=J7-3
-Added Pin To Net: NetName=GNSS_UART_TX Pin=J7-2
-Added Pin To Net: NetName=GNSS_UART_RX Pin=J7-3

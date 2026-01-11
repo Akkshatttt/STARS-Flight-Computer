@@ -1,8 +1,0 @@
-Change Component Designator: OldDesignator=J? NewDesignator=J8
-Change Component Designator: OldDesignator=J? NewDesignator=J9
-Change Component Designator: OldDesignator=J? NewDesignator=J10
-Change Component Designator: OldDesignator=R? NewDesignator=R22
-Change Net Name : Old Net Name=NetC39_1 New Net Name=+VSN_FLT
-Change Net Name : Old Net Name=NetC39_2 New Net Name=-VSN_FLT
-Added Member To Class: ClassName=Connectors Member=Component J8 35363-0660
-Added Member To Class: ClassName=Connectors Member=Component J9 353630460
