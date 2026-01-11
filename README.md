@@ -1,1 +1,1 @@
-# STARS---Flight-Computer
+# STARS-Flight-Computer
