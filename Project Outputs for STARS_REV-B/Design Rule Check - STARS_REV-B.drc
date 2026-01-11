@@ -1,0 +1,75 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\STARS_REV-B\STARS_REV-B.PcbDoc
+Date     : 01/08/2025
+Time     : 20:40:10
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InAnyDifferentialPair),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.03mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.098mm < 0.15mm) Between Pad C40-1(116.332mm,112.583mm) on Top Layer And Text "SW?" (115.291mm,110.134mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.098mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad C40-2(116.332mm,110.683mm) on Top Layer And Text "SW?" (115.291mm,110.134mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BOOT" (130.1mm,104.37mm) on Top Overlay And Track (125.13mm,115.601mm)(132.272mm,108.459mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BOOT" (130.1mm,104.37mm) on Top Overlay And Track (131.494mm,107.681mm)(132.272mm,108.459mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BR GPIO x6" (77.437mm,49.868mm) on Top Overlay And Track (70.53mm,56.378mm)(83.47mm,43.438mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BR GPIO x6" (77.437mm,49.868mm) on Top Overlay And Track (76.045mm,36.013mm)(83.47mm,43.438mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BR I2C x2" (63.091mm,63.96mm) on Top Overlay And Track (55.374mm,56.613mm)(62.799mm,64.038mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BR I2C x2" (63.091mm,63.96mm) on Top Overlay And Track (62.799mm,64.038mm)(70.082mm,56.755mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BR SPI" (130.066mm,57.6mm) on Top Overlay And Track (126.26mm,53.453mm)(133.543mm,60.736mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.009mm < 0.15mm) Between Text "BR SPI" (130.066mm,57.6mm) on Top Overlay And Track (133.543mm,60.736mm)(140.968mm,53.311mm) on Top Overlay Silk Text to Silk Clearance [0.009mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "BR UART x2" (103.873mm,41.825mm) on Top Overlay And Track (102.943mm,41.574mm)(113.243mm,41.574mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "C40" (118.737mm,110.427mm) on Top Overlay And Text "SW?" (115.291mm,110.134mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "PW1" (93.173mm,98.975mm) on Top Overlay And Track (93.692mm,98.892mm)(95.792mm,98.892mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "RF UART" (117.678mm,45.233mm) on Top Overlay And Track (117.751mm,44.944mm)(125.034mm,52.227mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "RF UART" (117.678mm,45.233mm) on Top Overlay And Track (117.751mm,44.944mm)(125.175mm,37.519mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.062mm < 0.15mm) Between Text "RSHN1" (61.46mm,82.797mm) on Top Overlay And Track (60.223mm,88.693mm)(60.223mm,83.693mm) on Top Overlay Silk Text to Silk Clearance [0.062mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "SD CARD" (101.539mm,109.389mm) on Top Overlay And Track (100.314mm,110.878mm)(109.714mm,110.878mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.15mm) Between Text "USB" (89.601mm,113.707mm) on Top Overlay And Track (86.391mm,115.161mm)(95.541mm,115.161mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :16
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mm) (InNetClass('SD_D[0..3]'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 18
+Waived Violations : 0
+Time Elapsed        : 00:00:00

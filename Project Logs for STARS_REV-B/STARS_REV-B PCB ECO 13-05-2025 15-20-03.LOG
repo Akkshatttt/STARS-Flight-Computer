@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PWM6 Pin=U2-9
+Removed Pin From Net: NetName=PWM7 Pin=U2-10
+Removed Pin From Net: NetName=PWM8 Pin=U2-12
+Removed Pin From Net: NetName=PWM9 Pin=U2-13
+Removed Member From Class: ClassName=SD_D[0..3] Member=SD_CLK
+Removed Member From Class: ClassName=SD_D[0..3] Member=SD_CMD
+Added Pin To Net: NetName=PWM6 Pin=U2-15
+Added Pin To Net: NetName=PWM7 Pin=U2-16
+Added Pin To Net: NetName=PWM8 Pin=U2-17
+Added Pin To Net: NetName=PWM9 Pin=U2-18
+Added Member To Class: ClassName=Memory Member=Component C42 100nF

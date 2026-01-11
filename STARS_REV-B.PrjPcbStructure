@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=AD_Sensors.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AD_Sensors.SchDoc|FileName=Connectors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AD_Sensors.SchDoc|FileName=MCU_Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AD_Sensors.SchDoc|FileName=Memory.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AD_Sensors.SchDoc|FileName=Power_Distribution.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AD_Sensors.SchDoc|FileName=Programming_Interface.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AD_Sensors.SchDoc|FileName=Support_Peripherals.SchDoc|SheetNumber=4

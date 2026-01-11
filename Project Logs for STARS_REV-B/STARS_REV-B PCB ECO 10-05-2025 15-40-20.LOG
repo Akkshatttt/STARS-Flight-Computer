@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+BZ Pin=LS1-1
+Removed Pin From Net: NetName=GND Pin=LS1-2
+Removed Pin From Net: NetName=BZ_BASE Pin=Q1-1
+Removed Pin From Net: NetName=+BZ Pin=Q1-2
+Removed Pin From Net: NetName=3V3 Pin=Q1-3
+Removed Member From Class: ClassName=Support_Peripherals Member=LS1
+Removed Member From Class: ClassName=Support_Peripherals Member=Q1
+Added Component: Designator=IC?(TMB12A12)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Jiangsu-Huaneng-Elec-TMB12A12_C96079.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Jiangsu Huaneng Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TMB12A12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT96P237X111-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/download/data-sheet/pdf/mmbt3904lt1-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT3904L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT3904L?qs=%252BEew9%252B0nqrB%252B4IZ2obugUw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+BZ Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=BZ_BASE Pin=Q?-1
+Added Pin To Net: NetName=+BZ Pin=Q?-2
+Added Pin To Net: NetName=3V3 Pin=Q?-3
+Added Member To Class: ClassName=Support_Peripherals Member=Component IC? TMB12A12
+Added Member To Class: ClassName=Support_Peripherals Member=Component Q? MMBT3904L

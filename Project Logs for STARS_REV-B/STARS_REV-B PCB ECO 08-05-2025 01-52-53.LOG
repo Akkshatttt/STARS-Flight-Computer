@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=USB_D_P Pin=IC2-8
+Added Pin To Net: NetName=USB_D_N Pin=IC2-9
+Added Pin To Net: NetName=USB_D_P Pin=R9-1
+Added Pin To Net: NetName=USB_D_N Pin=R11-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(217, 217, 217)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(217, 217, 217)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(217, 217, 217)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(217, 217, 217)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(127, 96, 0)
+Add Net: Net with name "BOOT0" already exists
+Add Net: Net with name "NRST" already exists
+Add Net: Net with name "PWM0" already exists
+Add Net: Net with name "PWM1" already exists
+Add Net: Net with name "PWM2" already exists
+Add Net: Net with name "PWM3" already exists
+Add Net: Net with name "PWM4" already exists
+Add Net: Net with name "PWM5" already exists
+Add Net: Net with name "PWM6" already exists
+Add Net: Net with name "PWM7" already exists
+Add Net: Net with name "PWM8" already exists
+Add Net: Net with name "PWM9" already exists
+Add Net: Net with name "PWM10" already exists
+Added Member To Class: ClassName=Connectors Member=Component J9 SM04B-SRSS-TB__LF__SN_

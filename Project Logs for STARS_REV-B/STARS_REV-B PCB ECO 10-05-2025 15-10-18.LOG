@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Support_Peripherals Member=R20
+Removed Member From Class: ClassName=Memory Member=R29
+Change Component Footprint: Designator=LS1 Old Footprint=FP-PKLCS1212E40A1-R1-MFG New Footprint=ABI033RC_
+Change Component Library : Designator=LS1 Old Library=* New Library=SamacSys.SchLib
+Added Member To Class: ClassName=Support_Peripherals Member=Component R22 10k
+Added Member To Class: ClassName=Support_Peripherals Member=Component R28 1k
+Added Member To Class: ClassName=Memory Member=Component R31 10k

@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=SD_D[0..3] Member=SD_CLK
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Added Pin To Net: NetName=OB_I2C_SCL Pin=IC3-19
+Added Pin To Net: NetName=OB_I2C_SDA Pin=IC3-20
+Change Net Color : Old Net Color=RGB(152, 0, 0) New Net Color=RGB(204, 0, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Aqua
+Change Net Color : Old Net Color=RGB(67, 67, 67) New Net Color=RGB(102, 102, 102)
+Change Net Color : Old Net Color=RGB(142, 124, 195) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(142, 124, 195) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(142, 124, 195) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(103, 78, 167) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=RGB(103, 78, 167) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=RGB(103, 78, 167) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(106, 168, 79)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(106, 168, 79)
+Change Net Color : Old Net Color=RGB(120, 63, 4) New Net Color=Default
+Change Net Color : Old Net Color=RGB(180, 95, 6) New Net Color=Default
+Add Net: Net with name "BOOT0" already exists
+Add Net: Net with name "NRST" already exists
+Add Net: Net with name "PWM0" already exists
+Add Net: Net with name "PWM1" already exists
+Add Net: Net with name "PWM2" already exists
+Add Net: Net with name "PWM3" already exists
+Add Net: Net with name "PWM4" already exists
+Add Net: Net with name "PWM5" already exists
+Add Net: Net with name "PWM6" already exists
+Add Net: Net with name "PWM7" already exists
+Add Net: Net with name "PWM8" already exists
+Add Net: Net with name "PWM9" already exists
+Add Net: Net with name "PWM10" already exists
+Added Member To Class: ClassName=Connectors Member=Component J5 SM04B-SRSS-TB__LF__SN_
+Added Member To Class: ClassName=Connectors Member=Component J6 SM04B-SRSS-TB__LF__SN_
+Added Member To Class: ClassName=Connectors Member=Component J7 M40-4010646R
+Added Member To Class: ClassName=Connectors Member=Component J8 SM04B-SRSS-TB__LF__SN_
+Added Member To Class: ClassName=Connectors Member=Component J10 SM03B-SRSS-TB___LF__SN_
+Added Member To Class: ClassName=Connectors Member=Component J11 SM07B-SRSS-TB_LF__SN_
+Added Member To Class: ClassName=Connectors Member=Component J12 SM07B-SRSS-TB_LF__SN_
+Added Member To Class: ClassName=Connectors Member=Component J13 SM04B-SRSS-TB__LF__SN_
+Added Rule: Name=Schematic Supply Nets_5

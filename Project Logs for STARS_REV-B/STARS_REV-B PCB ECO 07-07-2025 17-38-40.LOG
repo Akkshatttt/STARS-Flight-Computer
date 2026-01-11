@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GPIO4 Pin=U1-5
+Removed Member From Class: ClassName=SD_D[0..3] Member=SD_CLK
+Removed Member From Class: ClassName=SD_D[0..3] Member=SD_CMD
+Change Component Comment : Designator=R27 Old Comment=1k New Comment=10ohm
+Change Component Comment : Designator=R28 Old Comment=1k New Comment=10ohm
+Added Pin To Net: NetName=GPIO4 Pin=U1-7
+Added Pin To Net: NetName=ANALOG_IN Pin=J11-8
+Added Pin To Net: NetName=ANALOG_IN Pin=U1-27
+Added Net: Name=ANALOG_IN

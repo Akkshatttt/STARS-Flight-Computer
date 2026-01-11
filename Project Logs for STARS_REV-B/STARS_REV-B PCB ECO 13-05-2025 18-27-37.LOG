@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BR2_I2C_SDA Pin=IC8-3
+Removed Pin From Net: NetName=BR2_I2C_SCL Pin=IC8-4
+Removed Pin From Net: NetName=BR2_I2C_SCL Pin=R25-2
+Removed Pin From Net: NetName=BR2_I2C_SDA Pin=R26-2
+Added Pin To Net: NetName=BR1_I2C_SDA Pin=IC8-3
+Added Pin To Net: NetName=BR1_I2C_SCL Pin=IC8-4
+Added Pin To Net: NetName=BR1_I2C_SCL Pin=R25-2
+Added Pin To Net: NetName=BR1_I2C_SDA Pin=R26-2

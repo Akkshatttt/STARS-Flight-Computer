@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [STARS_REV-B.PrjPcb]
+   Generated File[STARS_REV-B_Copper_Signal_Top.gbr]
+   Generated File[STARS_REV-B_Copper_Signal_1.gbr]
+   Generated File[STARS_REV-B_Copper_Signal_2.gbr]
+   Generated File[STARS_REV-B_Copper_Signal_Bot.gbr]
+   Generated File[STARS_REV-B_Legend_Top.gbr]
+   Generated File[STARS_REV-B_Legend_Bot.gbr]
+   Generated File[STARS_REV-B_Soldermask_Top.gbr]
+   Generated File[STARS_REV-B_Soldermask_Bot.gbr]
+   Generated File[STARS_REV-B_Paste_Top.gbr]
+   Generated File[STARS_REV-B_Paste_Bot.gbr]
+   Generated File[STARS_REV-B_Profile.gbr]
+   Generated File[STARS_REV-B_NPTH_Drill.gbr]
+   Generated File[STARS_REV-B_PTH_Drill.gbr]
+   Generated File[STARS_REV-B_Drawing_1.gbr]
+   Generated File[STARS_REV-B_Drillmap_1.gbr]
+   Generated File[STARS_REV-B.EXTREP]
+   Generated File[STARS_REV-B.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 20:46:18 On 01/08/2025

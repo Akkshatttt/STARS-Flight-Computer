@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=FLASH_NSS Pin=IC10-1
+Removed Pin From Net: NetName=FLASH_MISO Pin=IC10-2
+Removed Pin From Net: NetName=FLASH_WP Pin=IC10-3
+Removed Pin From Net: NetName=GND Pin=IC10-4
+Removed Pin From Net: NetName=FLASH_MOSI Pin=IC10-5
+Removed Pin From Net: NetName=FLASH_SCK Pin=IC10-6
+Removed Pin From Net: NetName=FLASH_HOLD Pin=IC10-7
+Removed Pin From Net: NetName=3V3 Pin=IC10-8
+Removed Member From Class: ClassName=Memory Member=IC10
+Add component: Footprint Not Found SOIC127P780X195-8N
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L1-3
+Add Pin To Net: Unknown Pin: Pin L1-4
+Add Pin To Net: Unknown Pin: Pin L1-5
+Add Pin To Net: Unknown Pin: Pin L1-6
+Add Pin To Net: Unknown Pin: Pin L1-7
+Add Pin To Net: Unknown Pin: Pin L1-8
+Add Class Member: Failed to add class member : Component L1 W25Q128JVSIQ_TR

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=PWM_OE# Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=PWM0 Pin=U2-3
+Removed Pin From Net: NetName=PWM1 Pin=U2-4
+Removed Pin From Net: NetName=PWM2 Pin=U2-5
+Removed Pin From Net: NetName=PWM3 Pin=U2-6
+Removed Pin From Net: NetName=PWM4 Pin=U2-7
+Removed Pin From Net: NetName=PWM5 Pin=U2-8
+Removed Pin From Net: NetName=PWM6 Pin=U2-15
+Removed Pin From Net: NetName=PWM7 Pin=U2-16
+Removed Pin From Net: NetName=PWM8 Pin=U2-17
+Removed Pin From Net: NetName=PWM9 Pin=U2-18
+Removed Pin From Net: NetName=PWM_OE# Pin=U2-20
+Removed Member From Class: ClassName=Support_Peripherals Member=R29
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Added Pin To Net: NetName=BR2_I2C_SDA Pin=IC8-3
+Added Pin To Net: NetName=BR2_I2C_SCL Pin=IC8-4
+Added Pin To Net: NetName=BR2_I2C_SCL Pin=R25-2
+Added Pin To Net: NetName=BR2_I2C_SDA Pin=R26-2
+Added Pin To Net: NetName=PWM6 Pin=U2-3
+Added Pin To Net: NetName=PWM7 Pin=U2-4
+Added Pin To Net: NetName=PWM8 Pin=U2-5
+Added Pin To Net: NetName=PWM9 Pin=U2-6
+Added Pin To Net: NetName=PWM0 Pin=U2-14
+Added Pin To Net: NetName=PWM1 Pin=U2-15
+Added Pin To Net: NetName=PWM2 Pin=U2-16
+Added Pin To Net: NetName=PWM3 Pin=U2-17
+Added Pin To Net: NetName=PWM4 Pin=U2-18
+Added Pin To Net: NetName=PWM5 Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
